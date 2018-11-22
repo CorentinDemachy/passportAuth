@@ -1,0 +1,13 @@
+{
+    "port": "4200",
+    "dbConfig":{
+        "username": "devuser",
+        "password": "devuser",
+        "database": "jump-database",
+        "host": "localhost"
+    },
+    "tokenData":{
+        "tokenSecret": "mon secret",
+        "tokenExpiryTime": "7"
+    }
+}
